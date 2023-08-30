@@ -27,6 +27,9 @@
   - Binary Search
   - Linear Search
   - Bubble Sort
+- Day 6 (File Handling)
+  - Check arguments are file or directory
+  - calculate grade
 
 ## Authors
 
