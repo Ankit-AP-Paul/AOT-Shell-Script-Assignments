@@ -30,6 +30,8 @@
 - Day 6 (File Handling)
   - Check arguments are file or directory
   - calculate grade
+- Day 7 (String Manipulation)
+  - Palindrome words
 
 ## Authors
 
