@@ -32,6 +32,17 @@
   - calculate grade
 - Day 7 (String Manipulation)
   - Palindrome words
+- Day 8 (File Handling and Tput Cup)
+  - Calculate Salary
+  - Draw Circle
+- Day 9 (File Permissions)
+  - Check File Permissions
+  - Change File Permissions
+- Day 10 (Tput Cup)
+  - Draw Square
+  - Draw Triangle
+- Day 11 (Menu Driven File Operations)
+  - Add, Delete, Update Student's record in file
 
 ## Authors
 

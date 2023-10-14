@@ -1,0 +1,4 @@
+-rw-r--r-- 1 ANKIT 197121 0 Sep 21 16:30 file1.txt
+-rw-r--r-- 1 ANKIT 197121 0 Sep 21 16:30 file2.txt
+-rw-r--r-- 1 ANKIT 197121 0 Sep 21 16:30 file3.txt
+-rw-r--r-- 1 ANKIT 197121 16 Sep 21 16:30 abc.txt
