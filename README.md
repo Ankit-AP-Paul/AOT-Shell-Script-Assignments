@@ -43,6 +43,9 @@
   - Draw Triangle
 - Day 11 (Menu Driven File Operations)
   - Add, Delete, Update Student's record in file
+- Day 12 (System Calls in C)
+  - fork system call
+  - pipe system call
 
 ## Authors
 
