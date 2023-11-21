@@ -22,6 +22,7 @@
   - Calculator
   - Command Menu
   - Valid Date
+  - Number to Word
 - Day 5 (Arrays)
   - Age Calculator
   - Binary Search
