@@ -11,7 +11,7 @@ update()
 {
 	read -p "Enter the roll and new marks..." roll data
 	x=`wc -l<student.txt`
-	for (( i=2;i<=x;i++ ))
+	for (( i=1;i<=x;i++ ))
 	do
 		y=`head -n $i student.txt|tail -n 1|cut -d\| -f 1`
 		if [ $roll -eq $y ]
@@ -29,7 +29,7 @@ delete()
 {
 	read -p "Enter the roll..." roll
 	x=`wc -l<student.txt`
-	for (( i=2;i<=x;i++ ))
+	for (( i=1;i<=x;i++ ))
 	do
 		y=`head -n $i student.txt|tail -n 1|cut -d\| -f 1`
 		if [ $roll -eq $y ]
