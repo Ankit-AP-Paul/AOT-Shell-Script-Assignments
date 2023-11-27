@@ -34,6 +34,7 @@
 - Day 7 (String Manipulation)
   - Palindrome words
 - Day 8 (File Handling and Tput Cup)
+  - Calculate weekly temperature
   - Calculate Salary
   - Draw Circle
 - Day 9 (File Permissions)
